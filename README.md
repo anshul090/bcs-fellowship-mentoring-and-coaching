@@ -10,14 +10,14 @@ A letter from my former manager at Dell confirming:
 - Providing 1:1 coaching across teams
 - Promoting MLOps, LLMOps, and responsible AI practices
 
-🔗 [View Letter (PDF)](https://drive.google.com/file/d/1fur25oY0zjNQDyVI0Xk81K6zTLn2-jb-/view?usp=sharing)
+🔗 [Signed letter verifying mentorship contributions](https://drive.google.com/file/d/1fur25oY0zjNQDyVI0Xk81K6zTLn2-jb-/view?usp=sharing)
 
 ## 💬 LinkedIn Testimonial from Mentee
 
 A public LinkedIn post from a mentee I mentored during and after her time at Dell.  
 It highlights the long-term impact of our mentorship on her career.
 
-🔗 [View LinkedIn Post](https://www.linkedin.com/posts/prachi-thakkar-06_datascience-technology-algotrading-activity-7219776932664500226-3MQm)
+🔗 [Testimonial from mentee on LinkedIn](https://www.linkedin.com/posts/prachi-thakkar-06_datascience-technology-algotrading-activity-7219776932664500226-3MQm)
 
 ---
 
