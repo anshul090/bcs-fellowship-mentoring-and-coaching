@@ -6,7 +6,7 @@ This repository supports the "Professional Impact: Mentoring and Coaching" secti
 
 A letter from my former manager at Dell confirming:
 - My role in leading technical mentorship and training
-- Organizing a bi-weekly Machine Learning Forum (100+ engineers)
+- Organizing a bi-weekly Machine Learning Forum (100+ ML engineers and Data Scientists)
 - Providing 1:1 coaching across teams
 - Promoting MLOps, LLMOps, and responsible AI practices
 
