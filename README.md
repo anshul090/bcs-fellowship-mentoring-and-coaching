@@ -10,7 +10,7 @@ A letter from my former manager at Dell confirming:
 - Providing 1:1 coaching across teams
 - Promoting MLOps, LLMOps, and responsible AI practices
 
-🔗 [View Letter (PDF)]([insert-your-google-drive-or-pdf-link-here](https://drive.google.com/file/d/1fur25oY0zjNQDyVI0Xk81K6zTLn2-jb-/view?usp=sharing))
+🔗 [View Letter (PDF)](https://drive.google.com/file/d/1fur25oY0zjNQDyVI0Xk81K6zTLn2-jb-/view?usp=sharing)
 
 ## 💬 LinkedIn Testimonial from Mentee
 
