@@ -2,7 +2,7 @@
 
 This repository supports the "Professional Impact: Mentoring and Coaching" section of my BCS Fellowship application.
 
-## 📄 Signed Letter from Dell Technologies
+## Signed Letter from Dell Technologies
 
 A letter from my former manager at Dell confirming:
 - My role in leading technical mentorship and training
@@ -12,12 +12,17 @@ A letter from my former manager at Dell confirming:
 
 🔗 [Signed letter verifying mentorship contributions](https://drive.google.com/file/d/1fur25oY0zjNQDyVI0Xk81K6zTLn2-jb-/view?usp=sharing)
 
-## 💬 LinkedIn Testimonial from Mentee
+## LinkedIn Testimonial from Mentee
 
 A public LinkedIn post from a mentee I mentored during and after her time at Dell.  
 It highlights the long-term impact of our mentorship on her career.
 
 🔗 [Testimonial from mentee on LinkedIn](https://www.linkedin.com/posts/prachi-thakkar-06_datascience-technology-algotrading-activity-7219776932664500226-3MQm)
+
+## Topmate profile 
+Includes public testimonials and consistent 5.0/5.0 ratings from mentees across AI/ML topics — reinforcing the quality and reach of my external 
+mentorship efforts
+🔗 [Topmate Mentoring Profile] (https://topmate.io/anshul_gandhi)
 
 ---
 
