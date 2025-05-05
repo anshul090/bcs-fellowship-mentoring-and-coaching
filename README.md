@@ -22,7 +22,7 @@ It highlights the long-term impact of our mentorship on her career.
 ## Topmate profile 
 Includes public testimonials and consistent 5.0/5.0 ratings from mentees across AI/ML topics — reinforcing the quality and reach of my external 
 mentorship efforts
-🔗 [Topmate Mentoring Profile] (https://topmate.io/anshul_gandhi)
+🔗 [Topmate Mentoring Profile](https://topmate.io/anshul_gandhi)
 
 ---
 
